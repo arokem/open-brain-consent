@@ -1,6 +1,6 @@
 .. _chap_annonimization_tools:
 
-Annonimization tools
+Anonymization tools
 ====================
 
 Sanitarization of DICOM headers
